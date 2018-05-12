@@ -1,0 +1,31 @@
+_repo: On-Yacht-SailingSmall-Yachts-and-Boats_45493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Thomas Fleming
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '42380'
+    url: http://www.gutenberg.org/2009/agents/42380
+description: ''
+gutenberg_issued: '2014-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Yachting'
+tableOfContents: Special remarks -- General remarks -- The boat and rig -- The sides
+  and tacks -- The helm -- Nomenclature of rigging and sail -- Sailing on the wind
+  -- Sailing off the wind -- Reefing and jibing -- Taking care of the boat -- Maneuvers
+  -- Rules of the road -- Glossary -- Diagrams and plans -- List of books.
+title: "On Yacht Sailing\r\nA Simple Treatise for Beginners upon the Art of Handling\
+  \ Small Yachts and Boats"
+url: http://www.gutenberg.org/ebooks/45493
